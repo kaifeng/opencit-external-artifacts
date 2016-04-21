@@ -49,8 +49,17 @@ You will get the following zip file *'XenServer-6.1-SDK.zip'*, Unzip it and copy
     unzip vijava55b20130927.zip
     mv vijava55b20130927.jar vijava/vijava-5.5.jar
 
+
 ### JDK ###
-    wget http://download.oracle.com/otn/java/jdk/7u51-b13/jdk-7u51-linux-x64.tar.gz
+
+Download the JDK from:
+
+*http://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html#jdk-7u51-oth-JPR*
+
+Download the following file: *jdk-7u51-linux-x64.tar.gz*
+
+Once you downloaded the file, place it in the jdk directory
+
     mv jdk-7u51-linux-x64.tar.gz jdk/jdk-1.7.0_51-linux-x64.tar.gz
 
 Now cleanup
