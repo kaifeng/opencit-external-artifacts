@@ -3,9 +3,9 @@
     
     <groupId>com.mmonit</groupId>
     <artifactId>monit</artifactId>
-    <version>5.5</version>
+    <version>5.9</version>
     
-    <name>Monit 5.5</name>
+    <name>Monit 5.9</name>
     <packaging>pom</packaging>
     
     <properties>
@@ -14,7 +14,7 @@
         <version>${project.version}</version>
         <classifier>linux-src</classifier>
         <packaging>tgz</packaging>
-        <file>monit-5.5-linux-src.tgz</file>
+        <file>monit-5.9-linux-src.tgz</file>
     </properties>
     
     <build>
